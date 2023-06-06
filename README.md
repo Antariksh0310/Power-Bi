@@ -1,1 +1,2 @@
-# Power-Bi
+# IPL(Indian Premier League)
+The IPL Project using Power BI offers a comprehensive and visually appealing analysis of IPL data, allowing users to gain insights into team performance, player statistics, match outcomes, and other key aspects of the tournament. It provides a powerful tool for cricket enthusiasts, team management, analysts, and other stakeholders to make data-driven decisions, identify patterns, and derive meaningful insights from IPL data.
